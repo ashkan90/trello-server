@@ -21,7 +21,7 @@ module.exports = function (app) {
     	default: false
     },
     boardId: {
-    	type: Schema.Type.ObjectId,
+    	type: Schema.Types.ObjectId,
     	refs: 'boards'
     },
 

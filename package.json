@@ -41,15 +41,15 @@
     "compression": "^1.7.3",
     "cors": "^2.8.5",
     "feathers-authentication-hooks": "^0.3.1",
-    "feathers-mongoose": "^7.3.0",
+    "feathers-mongoose": "^7.3.1",
     "helmet": "^3.15.0",
     "mongodb-core": "^3.1.11",
-    "mongoose": "^5.4.7",
+    "mongoose": "^5.4.9",
     "serve-favicon": "^2.5.0",
-    "winston": "^3.2.0"
+    "winston": "^3.2.1"
   },
   "devDependencies": {
-    "eslint": "^5.12.1",
+    "eslint": "^5.13.0",
     "mocha": "^5.2.0",
     "nodemon": "^1.18.9",
     "request": "^2.88.0",

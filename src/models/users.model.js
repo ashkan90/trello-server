@@ -15,7 +15,7 @@ module.exports = function (app) {
     	type: String,
     	required: true
     },
-    imageUrl: {
+    imageurl: {
     	type: String,
     	required: true
     },
