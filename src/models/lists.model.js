@@ -15,14 +15,14 @@ module.exports = function (app) {
     	required: true,
     	default: 0
     },
-    order: {
+    archived: {
     	type: Boolean,
     	required: true,
     	default: false
     },
     boardId: {
     	type: Schema.Types.ObjectId,
-    	refs: 'boards'
+    	ref: 'boards'
     },
 
   }, {
